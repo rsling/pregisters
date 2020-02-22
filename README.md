@@ -8,5 +8,7 @@ The project builds on previous work from the COW initiative, where we developed 
 Investigators (alphabetically):
 
 Felix Bildhauer
+
 Elizabeth Pankratz
+
 Roland Schäfer
