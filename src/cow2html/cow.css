@@ -1,0 +1,113 @@
+body {
+  font-family: Verdana, Arial, sans;
+  background-color: #f9f9f9;
+}
+
+span {
+}
+
+.sentence {
+/*  font-weight: bold; */
+/*  font-style: italic; */
+  background-color: #eef;
+  border-radius: 4px;
+}
+
+.paragraph {
+  padding-bottom: 12px;
+}
+
+.bpc-a {
+  color: #000;
+}
+.bpc-b {
+  color: #111;
+}
+.bpc-c {
+  color: #222;
+}
+.bpc-d {
+  color: #333;
+}
+.bpc-e {
+  color: #444;
+}
+.bpc-f {
+  color: #555;
+}
+.bpc-g {
+  color: #555;
+}
+.bpc-h {
+  color: #666;
+}
+.bpc-i {
+  color: #777;
+}
+.bpc-j {
+  color: #888;
+}
+.bpc-k {
+  color: #999;
+}
+
+.div-idx {
+  background-color: #999;
+  color: #ccc;
+  font-size: 12;
+  padding: 2px;
+  border-radius: 5px;
+  font-variant: small-caps;
+}
+
+.header {
+  background-color: #444;
+  padding: 30px;
+  color: #fea;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 14px;
+}
+
+.faint {
+  color: #afa;
+}
+
+#outer {
+  padding: 50px;
+}
+
+.listrow {
+}
+
+.listcell {
+  padding: 10px;
+}
+
+.list {
+  font-size: 18px;
+}
+
+
+.listing {
+  margin: 50px;
+}
+
+.listspan {
+  padding: 10px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+cloud {
+  width: 100%;
+  height: auto;
+}
